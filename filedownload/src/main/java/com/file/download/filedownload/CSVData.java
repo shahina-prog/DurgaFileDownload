@@ -23,7 +23,6 @@ public class CSVData {
 	public void setNumber(String number) {
 		this.number = number;
 	}
-
 	
 
 }
